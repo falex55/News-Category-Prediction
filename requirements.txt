@@ -1,0 +1,6 @@
+scikit-learn
+seaborn
+nltk
+streamlit
+pickle
+joblib		
