@@ -21,7 +21,7 @@ def main():
     if st.button("Predict"):
         text =[description]
         news_group = predict(text)
-        st.write("### News group: ")
+        st.write("### News group: ")   
         st.success(news_group)
     if st.button("clear"):
         st.empty()
